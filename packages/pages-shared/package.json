@@ -27,7 +27,7 @@
 		"@cloudflare/workers-tsconfig": "workspace:*",
 		"@cloudflare/workers-types": "^4.20250310.0",
 		"concurrently": "^8.2.2",
-		"glob": "^10.4.5",
+		"glob": "^11.1.0",
 		"html-rewriter-wasm": "^0.4.1",
 		"vitest": "catalog:default"
 	},
